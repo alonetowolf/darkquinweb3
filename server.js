@@ -22,8 +22,8 @@ for (let rank in ranks) {
 
 
 const IDler = {
-  botID: "bot id",
-  botToken: "BOT TOKEN",
+  botID: "719640496074522726",
+  botToken: "NzE5NjQwNDk2MDc0NTIyNzI2.Xt6XcA.9dlXAOgzOdc72gXSvfB2-yxgsGY",
   botSecret: "BOT SECRET",
   botCallbackURL: "projeurlniz/callback",
   sunucuID: "sunucu id",
