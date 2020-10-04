@@ -23,7 +23,7 @@ for (let rank in ranks) {
 
 const IDler = {
   botID: "719640496074522726",
-  botToken: "NzE5NjQwNDk2MDc0NTIyNzI2.Xt6XcA.d04ZIEukHHqkYgQMQMyCmAsodqs",
+  botToken: "NzE5NjQwNDk2MDc0NTIyNzI2.Xt6XcA.FHAYrff1b7Ttcd2MSHTUnGafZmE",
   botSecret: "GpiHST6neCkoMdRZnw7AEpm1jNy15bJd",
   botCallbackURL: "projeurlniz/callback",
   sunucuID: "sunucu id",
