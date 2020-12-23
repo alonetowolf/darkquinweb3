@@ -22,23 +22,23 @@ for (let rank in ranks) {
 
 
 const IDler = {
-  botID: "719640496074522726",
-  botToken: "NzE5NjQwNDk2MDc0NTIyNzI2.Xt6XcA.FHAYrff1b7Ttcd2MSHTUnGafZmE",
-  botSecret: "GpiHST6neCkoMdRZnw7AEpm1jNy15bJd",
-  botCallbackURL: "projeurlniz/callback",
-  sunucuID: "sunucu id",
-  sunucuDavet: "sunucu DAVET",
-  kodLogKanalı: "log id",
-  sahipRolü: "435480647201456149",
-  adminRolü: "435480647201456149",
-  kodPaylaşımcıRolü: "435480647201456149",
-  boosterRolü: "booster rol",
-  kodPaylaşamayacakRoller: ["BANLI ROL İD", "BANLI ROL İD"],
-  hazırAltyapılarRolü: "Hazır Sistem",
-  hazırSistemlerRolü: "Hazır Sistem",
-  elmasKodlarRolü: "Elmas",
-  altınKodlarRolü: "ALTIN KOD ",
-  normalKodlarRolü: "NORMAL"
+  botID: "767020981310062635",
+  botToken: "NzY3MDIwOTgxMzEwMDYyNjM1.X4r19A.F_Ddm0l8wqV7Oa0my3HvyGHBK8o",
+  botSecret: "5IQXpkpwqOlzAsBAu-MFSRn_ywyMAs5X",
+  botCallbackURL: "https://invented-amenable-surfboard.glitch.me/callback",
+  sunucuID: "693457739934072922",
+  sunucuDavet: "https://discord.gg/WsVtB93XCA",
+  kodLogKanalı: "790281168754573353",
+  sahipRolü: "788440640677085234",
+  adminRolü: "790280420498604134",
+  kodPaylaşımcıRolü: "790280420498604134",
+  boosterRolü: "776786394928119860",
+  kodPaylaşamayacakRoller: ["790280851459932223", "790280851459932223"],
+  hazırAltyapılarRolü: "790280668030304276",
+  hazırSistemlerRolü: "790280668030304276",
+  elmasKodlarRolü: "790280314999668747",
+  altınKodlarRolü: "790280376140038144",
+  normalKodlarRolü: "790280402875056189"
 };
 
 const app = express();
